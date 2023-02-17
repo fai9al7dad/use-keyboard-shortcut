@@ -1,5 +1,5 @@
 ## goal of this fork is to add the isCombination feature
-pull request #83 
+pull request
 https://github.com/arthurtyukayev/use-keyboard-shortcut/pull/83
 
 
