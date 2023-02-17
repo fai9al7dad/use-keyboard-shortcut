@@ -1,3 +1,8 @@
+## goal of this fork is to add the isCombination feature
+pull request #83 
+https://github.com/arthurtyukayev/use-keyboard-shortcut/pull/83
+
+
 ## useKeyboardShortcut
 
 [![npm version](https://badge.fury.io/js/use-keyboard-shortcut.svg)](https://badge.fury.io/js/use-keyboard-shortcut) [![testing](https://github.com/arthurtyukayev/use-keyboard-shortcut/actions/workflows/testing.js.yml/badge.svg)](https://github.com/arthurtyukayev/use-keyboard-shortcut/actions/workflows/testing.js.yml)
